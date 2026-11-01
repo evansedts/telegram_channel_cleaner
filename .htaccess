@@ -1,0 +1,2 @@
+# This is a terminal tool. Block web access to its files, including .env.
+Require all denied
