@@ -4,7 +4,7 @@ Delete all published posts, including old posts, from a Telegram channel you man
 
 ## Watch this Tutorial
 
-[![Watch the video](https://youtube.com)](https://youtu.be/nD5oZWBx5wA)
+[![Thousands of Telegram Channel Posts? Here's How to Delete Them All at Once](https://youtube.com)](https://youtu.be)
 
 
 ## Setup
