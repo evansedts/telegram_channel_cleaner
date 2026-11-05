@@ -2,6 +2,10 @@
 
 Delete all published posts, including old posts, from a Telegram channel you manage. Requires Python 3.10+ and a Telegram account with permission to delete channel posts.
 
+## Watch this Tutorial
+
+https://youtu.be/nD5oZWBx5wA
+
 ## Setup
 
 1. Clone or download this repository and open its folder in VS Code.
